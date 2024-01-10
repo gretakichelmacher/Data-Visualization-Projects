@@ -1,2 +1,2 @@
 # Data-Visualization-Projects
-My own projects
+A collection of my individual and collaborative projects.
