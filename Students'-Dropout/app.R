@@ -9,7 +9,7 @@ library(forcats)
 
 rsconnect::setAccountInfo(name='data-visualizations-by-greta-kichelmacher',
                           token='38B1B9A281FB93056A920E8FC44E1A63',
-                          secret='NMPrSxoUcImW9+39nVjuFJRgvKnCKAmjwrlBEjh0')
+                          secret='')
 
 # load the dataset 
 df=read.csv("data.csv", sep=";")
